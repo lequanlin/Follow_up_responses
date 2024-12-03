@@ -23,3 +23,6 @@ The current GFE architecture is similar to H2GCN, which is generally better than
 
 
 ### Supplementary material 3
+
+
+![supp_sage](https://github.com/user-attachments/assets/66c6577f-c039-4f89-bb20-875c15b0eb5b)
