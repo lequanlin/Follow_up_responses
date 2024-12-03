@@ -6,6 +6,8 @@ Here we present some supplementary experiment results on the balation study of G
 
 ### Supplementary material 1
 
+![supp_hop](https://github.com/user-attachments/assets/5a3fd1b6-1646-43cc-977b-e8e87292b1c0)
+
 
 ## Ablation - SAGE
 
