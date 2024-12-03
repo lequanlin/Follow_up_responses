@@ -6,6 +6,8 @@ Here we present some supplementary experiment results on the balation study of G
 
 ### Supplementary material 1
 
+To build on our previous analysis, where we experimented with GFE using "GCN1" and "GCN2", we conducted additional experiments by increasing the number of GCN layers from 3 to 5. The results, presented in Supplementary Material 1, indicate that the number of GCN layers has minimal impact on generative quality and may even improve model accuracy.
+
 ![supp_hop](https://github.com/user-attachments/assets/5a3fd1b6-1646-43cc-977b-e8e87292b1c0)
 
 
