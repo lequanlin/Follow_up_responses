@@ -4,8 +4,12 @@ Here we present some supplementary experiment results on the balation study of G
 
 ## Ablation - More hops
 
+### Supplementary material 1
 
-## Ablation SAGE
+
+## Ablation - SAGE
+
+### Supplementary material 2 
 
 To further back up our explination, we provide some experiment results from [[Understanding convolution on graphs via energies]](https://arxiv.org/pdf/2206.10991).
 
@@ -14,3 +18,6 @@ We can observe from the results that MLP is sometimes more powerful than traditi
 The current GFE architecture is similar to H2GCN, which is generally better than MLP.
 
 ![GNN-Diff](https://github.com/user-attachments/assets/5c8d6e14-0066-4dd4-a96d-91cf2342cfdf)
+
+
+### Supplementary material 3
