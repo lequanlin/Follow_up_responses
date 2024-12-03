@@ -6,7 +6,7 @@ Here we present some supplementary experiment results on the balation study of G
 
 ### Supplementary material 1
 
-To build on our previous analysis, where we experimented with GFE using "GCN1" and "GCN2", we conducted additional experiments by increasing the number of GCN layers from 3 to 5. The results, presented in Supplementary Material 1, indicate that the number of GCN layers has minimal impact on generative quality and may even improve model accuracy.
+To build on our previous analysis, where we experimented with GFE using "GCN1" and "GCN2", we conducted additional experiments by increasing the number of GCN layers from 3 to 5. The results indicate that the number of GCN layers has minimal impact on generative quality and may even improve model accuracy.
 
 ![supp_hop](https://github.com/user-attachments/assets/5a3fd1b6-1646-43cc-977b-e8e87292b1c0)
 
@@ -25,6 +25,8 @@ The current GFE architecture is similar to H2GCN, which is generally better than
 
 
 ### Supplementary material 3
+
+We have included an additional experiment: SAGE-Actor with MLP2 as the GFE encoder, where MLP2 consists of two linear layers. The results indicate that the generative performance improves compared to using a single-layer MLP. This suggests that feature representation, rather than graph structure, plays a more critical role in this specific task.
 
 
 ![supp_sage](https://github.com/user-attachments/assets/66c6577f-c039-4f89-bb20-875c15b0eb5b)
